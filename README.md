@@ -43,10 +43,15 @@ https://geoportal.portovelho.ro.gov.br/
 
 ## 📊 Estatísticas GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasbastosrezende&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasbastosrezende&layout=compact&theme=tokyonight" height="170"/>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasbastosrezende&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbastosrezende&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=lucasbastosrezende&theme=tokyonight"/>
+
+</div>
 
 ---
 

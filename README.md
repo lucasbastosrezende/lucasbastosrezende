@@ -1,10 +1,3 @@
-<p align="center">
-💻 Desenvolvedor Back-End focado em C# e JS.
-🎓 Estudante de Engenharia da Computação.
-</p>
-
----
-
 ## 👨‍💻 Sobre mim
 
 Desenvolvedor focado em **Back-End com C# e JavaScript**, com experiência em desenvolvimento de sistemas e **WebGIS**.

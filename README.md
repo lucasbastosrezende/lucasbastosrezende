@@ -24,7 +24,7 @@ Trabalhando com:
 
 # 🚀 Tecnologias
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -49,7 +49,7 @@ Trabalhando com:
 
 # 📚 Interesses
 
-<div align="center">
+<div align="left">
 
 🧠 APIs & Backend Architecture  
 🌍 WebGIS  
@@ -63,7 +63,7 @@ Trabalhando com:
 
 # 📫 Contato
 
-<div align="center">
+<div align="left">
 
 <a href="https://linkedin.com/in/lucasbastosrezende">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

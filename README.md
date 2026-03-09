@@ -43,9 +43,9 @@ https://geoportal.portovelho.ro.gov.br/
 
 # 📊 Estatísticas GitHub
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbastosrezende&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbastosrezende&layout=compact&theme=tokyonight)
 
 ---
 

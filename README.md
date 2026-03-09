@@ -1,8 +1,6 @@
-<h1 align="center">Lucas Bastos 👋</h1>
-
 <p align="center">
-💻 Back-End Developer | C# & JavaScript <br>
-🎓 Computer Engineering Student
+💻 Desenvolvedor Back-End focado em C# e JS.
+🎓 Estudante de Engenharia da Computação.
 </p>
 
 ---

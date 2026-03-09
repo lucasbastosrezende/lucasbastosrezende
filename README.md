@@ -34,7 +34,8 @@ Trabalhando com:
 ## 📊 Estatísticas GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasbastosrezende&show_icons=true&theme=tokyonight&locale=pt-br" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasbastosrezende&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas%20do%20GitHub" height="170"/>
+
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasbastosrezende&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20mais%20usadas" height="170"/>
 </p>
 

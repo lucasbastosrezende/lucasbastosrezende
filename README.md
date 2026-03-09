@@ -64,13 +64,6 @@ Trabalhando com:
 <a href="https://linkedin.com/in/lucasbastosrezende">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:lucas.bastos.rezende@hotmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
 </td>
 
 </tr>

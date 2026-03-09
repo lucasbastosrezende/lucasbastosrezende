@@ -1,7 +1,3 @@
-## 👨‍💻 Sobre mim
-
-Desenvolvedor focado em **Back-End com C# e JavaScript**, com experiência em desenvolvimento de sistemas web legados 
-
 Atuo com dados geoespaciais e mapas interativos utilizando **Leaflet** no:
 
 🌎 https://geoportal.portovelho.ro.gov.br/

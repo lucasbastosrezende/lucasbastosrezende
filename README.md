@@ -1,26 +1,24 @@
-Atuo com dados geoespaciais e mapas interativos utilizando **Leaflet** no:
-
-🌎 https://geoportal.portovelho.ro.gov.br/
+### 🗺️ Experiência com dados geoespaciais
 
 Trabalhando com:
 
-- camadas geográficas
-- GeoJSON
-- visualização de dados espaciais
-- integração com APIs
+- Camadas geográficas  
+- GeoJSON  
+- Visualização de dados espaciais  
+- Integração com APIs  
 
 ---
 
-# 🚀 Tecnologias
+## 🚀 Tecnologias
 
-<div align="left">
+<div align="center">
 
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
@@ -29,38 +27,51 @@ Trabalhando com:
 
 ## 📊 Estatísticas GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasbastosrezende&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas%20do%20GitHub" height="170"/>
+<div align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasbastosrezende&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20mais%20usadas" height="170"/>
-</p>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasbastosrezende&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas%20do%20GitHub"/>
 
----
-
-# 📚 Interesses
-
-<div align="left">
-
-🧠 APIs & Backend Architecture  
-🌍 WebGIS  
-🗄️ Banco de dados  
-⚡ Sistemas escaláveis  
-🧹 Clean Code  
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasbastosrezende&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20mais%20usadas"/>
 
 </div>
 
 ---
 
-# 📫 Contato
+## 📚 Interesses & 📫 Contato
 
-<div align="left">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📚 Interesses
+
+- Desenvolvimento de APIs  
+- Arquitetura de sistemas  
+- WebGIS  
+- Dados espaciais  
+- Clean Code  
+- Sistemas escaláveis  
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 📫 Contato
+
+<br>
 
 <a href="https://linkedin.com/in/lucasbastosrezende">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:lucas.bastos.rezende@hotmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-</div>
+</td>
+
+</tr>
+</table>

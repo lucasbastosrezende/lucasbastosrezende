@@ -37,17 +37,17 @@ Trabalhando com:
 
 ---
 
-## 📚 Interesses
+## 📚 Stack & Interesses Profissionais
 
 <div align="left">
 
-| 🚀 Área | 📖 Foco |
-|------|------|
-| 🔌 APIs | Desenvolvimento e integração de APIs |
-| 🏗️ Arquitetura | Arquitetura de sistemas |
-| 🌍 WebGIS | Sistemas geoespaciais |
-| 🧹 Código Limpo | Boas práticas no geral |
-| ⚡ Escalabilidade | Sistemas distribuídos e escaláveis |
+| Área | Foco Técnico | Aplicação |
+| :--- | :--- | :--- |
+| **🌍 WebGIS** | PostGIS, GeoServer, Leaflet/OpenLayers | Visualização de dados geoespaciais em tempo real. |
+| **🔌 APIs** | RESTful, GraphQL, OGC Standards | Interoperabilidade entre sistemas governamentais. |
+| **🏗️ Arquitetura** | Clean Architecture | Separação de regras de negócio de drivers externos. |
+| **⚡ Escalabilidade** | Redis, Microservices, Docker | Estudo de performance em grandes volumes de dados. |
+| **🧹 Clean Code** | SOLID, Design Patterns, TDD | Código sustentável e fácil de manter a longo prazo. |
 
 </div>
 

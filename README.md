@@ -27,7 +27,7 @@ Trabalhando com:
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+<div align="left">
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasbastosrezende&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas%20do%20GitHub"/>
 

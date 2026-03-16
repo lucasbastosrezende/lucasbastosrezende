@@ -37,34 +37,19 @@ Trabalhando com:
 
 ---
 
-## 📚 Interesses & 📫 Contato
+## 📚 Interesses
 
-<table>
-<tr>
+<div align="left">
 
-<td width="50%" valign="top">
+| 🚀 Área | 📖 Foco |
+|------|------|
+| 🔌 APIs | Desenvolvimento e integração de APIs |
+| 🏗️ Arquitetura | Arquitetura de sistemas |
+| 🌍 WebGIS | Sistemas geoespaciais |
+| 🧹 Código Limpo | Boas práticas no geral |
+| ⚡ Escalabilidade | Sistemas distribuídos e escaláveis |
 
-### 📚 Interesses
-
-- Desenvolvimento de APIs  
-- Arquitetura de sistemas  
-- WebGIS  
-- Dados espaciais  
-- Clean Code  
-- Sistemas escaláveis  
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-### 📫 Contato
-
-<br>
-
-<a href="https://linkedin.com/in/lucasbastosrezende">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-</td>
+</div>
 
 </tr>
 </table>

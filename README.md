@@ -1,4 +1,4 @@
-### 🗺️ Experiência com dados geoespaciais
+###  Experiência com dados geoespaciais
 
 Trabalhando com:
 
@@ -9,7 +9,7 @@ Trabalhando com:
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 <div align="left">
 
@@ -25,7 +25,7 @@ Trabalhando com:
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <div align="left">
 
@@ -37,17 +37,17 @@ Trabalhando com:
 
 ---
 
-## 📚 Stack & Interesses Profissionais
+## Stack & Interesses Profissionais
 
 <div align="left">
 
 | Área | Foco Técnico | Aplicação |
 | :--- | :--- | :--- |
-| **🌍 WebGIS** | PostGIS, GeoServer, Leaflet/OpenLayers | Visualização de dados geoespaciais em tempo real. |
-| **🔌 APIs** | RESTful, GraphQL, OGC Standards | Interoperabilidade entre sistemas governamentais. |
-| **🏗️ Arquitetura** | Clean Architecture | Separação de regras de negócio de drivers externos. |
-| **⚡ Escalabilidade** | Redis, Microservices, Docker | Estudo de performance em grandes volumes de dados. |
-| **🧹 Clean Code** | SOLID, Design Patterns, TDD | Código sustentável e fácil de manter a longo prazo. |
+| ** WebGIS** | PostGIS, GeoServer, Leaflet/OpenLayers | Visualização de dados geoespaciais em tempo real. |
+| ** APIs** | RESTful, GraphQL, OGC Standards | Interoperabilidade entre sistemas governamentais. |
+| ** Arquitetura** | Clean Architecture | Separação de regras de negócio de drivers externos. |
+| ** Escalabilidade** | Redis, Microservices, Docker | Estudo de performance em grandes volumes de dados. |
+| ** Clean Code** | SOLID, Design Patterns, TDD | Código sustentável e fácil de manter a longo prazo. |
 
 </div>
 

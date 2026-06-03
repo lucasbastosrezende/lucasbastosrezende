@@ -43,7 +43,7 @@ Trabalhando com:
 
 | Área | Foco Técnico | Aplicação |
 | :--- | :--- | :--- |
-|  WebGIS** | PostGIS, GeoServer, Leaflet/OpenLayers | Visualização de dados geoespaciais em tempo real. |
+|  WebGIS| PostGIS, GeoServer, Leaflet/OpenLayers | Visualização de dados geoespaciais em tempo real. |
 |  APIs| RESTful, GraphQL, OGC Standards | Interoperabilidade entre sistemas governamentais. |
 |  Arquitetura | Clean Architecture | Separação de regras de negócio de drivers externos. |
 | Escalabilidade | Redis, Microservices, Docker | Estudo de performance em grandes volumes de dados. |

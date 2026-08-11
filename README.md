@@ -23,20 +23,6 @@ Trabalhando com:
 
 </div>
 
----
-
-## Estatísticas GitHub
-
-<div align="left">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasbastosrezende&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas%20do%20GitHub"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasbastosrezende&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20mais%20usadas"/>
-
-</div>
-
----
-
 ## Stack & Interesses Profissionais
 
 <div align="left">

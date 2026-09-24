@@ -20,4 +20,4 @@ C# · JavaScript · Leaflet · Bootstrap · HTML/CSS · Git
 
 Se você trabalha com dados espaciais ou tem um projeto de mapa na cabeça, me chama. Gosto de trocar ideia sobre isso.
 
-📫 [lucas.bastos.rezende@hotmail.com · 
+📫 [lucas.bastos.rezende@hotmail.com · https://curriculolucas.duckdns.org:8444]

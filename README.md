@@ -11,7 +11,6 @@ O que estou estudando agora
 - Testes: ainda não escrevo tantos quanto gostaria, mas estou melhorando
 - Redis e Docker, quando o volume de dados começa a pesar
 - IA rodando localmente, sem API paga: Whisper, OCR e modelos via Ollama
-- Ruby on Rails
 
 Ferramentas que uso
 C# · .NET · Python · JavaScript · TypeScript · React · Node.js · PostgreSQL · Docker · Git

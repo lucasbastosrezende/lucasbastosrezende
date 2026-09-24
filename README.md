@@ -1,41 +1,23 @@
-###  Experiência com dados geoespaciais
+## Oi, eu sou Lucas Bastos Rezende dos Santos
 
-Trabalhando com:
+Sou desenvolvedor e passo boa parte do tempo com mapas: pego dados geográficos, organizo e transformo em algo que dá pra ver e usar no navegador.
 
-- Camadas geográficas  
-- GeoJSON  
-- Visualização de dados espaciais  
-- Integração com APIs  
+No dia a dia mexo com camadas geográficas, GeoJSON e integração com APIs. No back-end uso C#, no front-end JavaScript com Leaflet.
 
----
+### O que estou estudando agora
 
-##  Tecnologias
+- **PostGIS e GeoServer**, pra parar de depender só de arquivos GeoJSON soltos
+- **Padrões OGC (WMS, WFS)**, porque muito sistema público fala essa língua
+- **Clean Architecture**, pra deixar a regra de negócio separada do banco e das bibliotecas
+- **Redis e Docker**, quando o volume de dados começa a pesar
+- **Testes**: ainda não escrevo tantos quanto gostaria, mas estou melhorando
 
-<div align="left">
+### Ferramentas que uso
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+C# · JavaScript · Leaflet · Bootstrap · HTML/CSS · Git
 
-</div>
+### Contato
 
-## Stack & Interesses Profissionais
+Se você trabalha com dados espaciais ou tem um projeto de mapa na cabeça, me chama. Gosto de trocar ideia sobre isso.
 
-<div align="left">
-
-| Área | Foco Técnico | Aplicação |
-| :--- | :--- | :--- |
-|  WebGIS| PostGIS, GeoServer, Leaflet/OpenLayers | Visualização de dados geoespaciais em tempo real. |
-|  APIs| RESTful, GraphQL, OGC Standards | Interoperabilidade entre sistemas governamentais. |
-|  Arquitetura | Clean Architecture | Separação de regras de negócio de drivers externos. |
-| Escalabilidade | Redis, Microservices, Docker | Estudo de performance em grandes volumes de dados. |
-| Clean Code | SOLID, Design Patterns, TDD | Código sustentável e fácil de manter a longo prazo. |
-
-</div>
-
-</tr>
-</table>
+📫 [lucas.bastos.rezende@hotmail.com · 

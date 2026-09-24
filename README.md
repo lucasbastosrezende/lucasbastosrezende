@@ -1,4 +1,4 @@
-## Oi, eu sou Lucas Bastos Rezende dos Santos
+## Oi, me chamo Lucas Bastos Rezende dos Santos
 
 Sou desenvolvedor e passo boa parte do tempo com mapas: pego dados geográficos, organizo e transformo em algo que dá pra ver e usar no navegador.
 

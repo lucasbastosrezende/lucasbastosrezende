@@ -9,13 +9,13 @@ Também passo bastante tempo com dados geográficos (GeoJSON, PostGIS, Leaflet),
 O que estou estudando agora
 - Clean Architecture, pra deixar a regra de negócio separada do banco e das bibliotecas
 - Testes: ainda não escrevo tantos quanto gostaria, mas estou melhorando
-- Redis e Docker, quando o volume de dados começa a pesar
+- Docker, para grandes volumes de dados
 - IA rodando localmente, sem API paga: Whisper, OCR e modelos via Ollama
 
 Ferramentas que uso
 C# · .NET · Python · JavaScript · TypeScript · React · Node.js · PostgreSQL · Docker · Git
 
 Contato
-Se você tem um projeto em mente ou quer trocar ideia sobre back-end, arquitetura ou algo que roda em servidor próprio, me chama.
+Se você tem um projeto em mente ou quer trocar ideia, pode me chamar.
 
 📫 lucas.bastos.rezende@hotmail.com · https://curriculolucas.duckdns.org:8444

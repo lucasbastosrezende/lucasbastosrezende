@@ -2,9 +2,9 @@ Oi, me chamo Lucas Bastos Rezende dos Santos
 
 Sou desenvolvedor back-end e gosto de fazer coisas que as pessoas usam de verdade: APIs, sistemas de gestão e ferramentas que rodam no meu próprio servidor.
 
-No dia a dia trabalho com C# e Python (Flask) no back-end, JavaScript/TypeScript com React no front-end, bancos relacionais (PostgreSQL e SQLite) e Docker. Sempre na mesma estrutura de rotas, controllers, models e migrations, então me adapto rápido a projetos novos: começo lendo o código que já existe e sigo o padrão dele.
+No dia a dia trabalho com C# e Python (Flask) no back-end, JavaScript/TypeScript com React no front-end, bancos relacionais (PostgreSQL e SQLite) e Docker. Sempre na mesma estrutura de rotas, controllers, models e migrations, então me adapto rápido a projetos novos.
 
-Também passo bastante tempo com dados geográficos (GeoJSON, PostGIS, Leaflet), porque boa parte dos sistemas públicos em que trabalhei gira em torno de mapas.
+Também passo bastante tempo com dados geográficos (GeoJSON, PostGIS, Leaflet).
 
 O que estou estudando agora
 - Clean Architecture, pra deixar a regra de negócio separada do banco e das bibliotecas
